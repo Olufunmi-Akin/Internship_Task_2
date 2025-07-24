@@ -3,7 +3,7 @@
 ### Task : Create a look – Kazi Calls
 
 ### Objective 
-This task involves exploring the Kazi Calls Dashboard in Looker to generate insights on agent call activity and success rates. Kazi calls refer to outreach made by agents to customers for collections. You will be required to build two Looks focused on Zambia’s agent performance in November and December 2022.
+This task involves exploring the Kazi Calls Dashboard in Looker to generate insights on agent call activity and success rates. Kazi calls refer to outreach made by agents to customers for collections. Reuired to build two Looks focused on Zambia’s agent performance in November and December 2022.
 
 ### Data Sources
 The data is sourced from the Kazi Calls Dashboard in Looker, which tracks: Agent call logs (call counts, timestamps), Call outcomes  (e.g., successful or unsuccessful), Customer interaction timelines, Geography filters, specifically by country (Zambia)
